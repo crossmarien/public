@@ -13,7 +13,7 @@
   * 차분함, 성실함
   * 가족들과 함께 보냄
 
-  ---?image=https://raw.githubusercontent.com/crossmarien/public/master/assets/img/1.png
+  ?image=https://raw.githubusercontent.com/crossmarien/public/master/assets/img/1.png
 
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
