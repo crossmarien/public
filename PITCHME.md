@@ -32,7 +32,7 @@
   * 차분함, 말이 느림
   * 친구들이랑 방 잡고 놀기
 
-  ![3](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg | width=300)
+  ![3](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg)
 
 ---
 @title[박찬미]
@@ -41,7 +41,7 @@
   * 기면 기고 아니면 아님, 자유분방함
   * 일출 보러 뒷동산 등산
 
-  ![4](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/4.jpg | width=300)
+  ![4](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/4.jpg)
   
 ---
 @title[이종화]
@@ -59,4 +59,4 @@
   * 집요함, 특이함
   * 인제 자작나무 숲 여행
 
-  ![6](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/6.jpg | width=300)
+  ![6](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/6.jpg)
