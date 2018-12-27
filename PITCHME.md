@@ -16,7 +16,7 @@
 ###박병준
   * 뽀로로, 포로리
   * 화를 잘 안냄
-  * ![SAMBA Deployment](assets/img/2.jpg)
+  * ![SAMBA Deployment](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
   * 게임 만들고 있는 친구들 방문 
   * 31일 밤에 술 오지게 마심
 ---
