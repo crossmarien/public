@@ -15,6 +15,8 @@
 
   ---?image=https://raw.githubusercontent.com/crossmarien/public/master/assets/img/1.png
 
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
 ---
 @title[박병준]
 ### @size[15](박병준)
@@ -58,5 +60,5 @@
   * 도비
   * 집요함, 특이함
   * 인제 자작나무 숲 여행
-  
+
   ---?image=https://raw.githubusercontent.com/crossmarien/public/master/assets/img/6.jpg
