@@ -12,7 +12,9 @@
   * 얼리버두
   * 차분함, 성실함
   * 가족들과 함께 보냄
+  
   ![1](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/1.png)
+
 
 ---
 @title[박병준]
@@ -23,6 +25,7 @@
   * 31일 밤에 술 오지게 마심
   ![2](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/2.jpg)
 
+
 ---
 @title[박준태]
 ### @size[15](박준태)
@@ -31,6 +34,7 @@
   * 친구들이랑 방 잡고 놀기
   ![3](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg)
 
+
 ---
 @title[박찬미]
 ### @size[15](박찬미)
@@ -38,6 +42,7 @@
   * 기면 기고 아니면 아님, 자유분방함
   * 일출 보러 뒷동산 등산
   ![4](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/4.jpg)
+
   
 ---
 @title[이종화]
@@ -46,6 +51,7 @@
   * 잘 웃음, 잘 숨음
   * 친구들 만나기
   ![5](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/5.png)
+
   
 ---
 @title[황은석]
