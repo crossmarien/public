@@ -9,7 +9,7 @@
 ###고재두
   * 얼리버두
   * 차분함, 성실함
-  * ![SAMBA Deployment](https://github.com/crossmarien/public/blob/master/assets/img/1.png)
+  * ![SAMBA Deployment](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/1.png)
   * 가족들과 함께 보냄
 ---
 @title[박병준]
