@@ -23,6 +23,7 @@
   * 화를 잘 안냄
   * 게임 만들고 있는 친구들 방문 
   * 31일 밤에 술 오지게 마심
+
   ![2](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/2.jpg)
 
 
@@ -32,6 +33,7 @@
   * 낙타
   * 차분함, 말이 느림
   * 친구들이랑 방 잡고 놀기
+
   ![3](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg)
 
 
@@ -41,6 +43,7 @@
   * 토미
   * 기면 기고 아니면 아님, 자유분방함
   * 일출 보러 뒷동산 등산
+
   ![4](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/4.jpg)
 
   
@@ -50,6 +53,7 @@
   * 메타몽
   * 잘 웃음, 잘 숨음
   * 친구들 만나기
+
   ![5](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/5.png)
 
   
@@ -59,4 +63,5 @@
   * 도비
   * 집요함, 특이함
   * 인제 자작나무 숲 여행
+  
   ![6](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/6.jpg)
