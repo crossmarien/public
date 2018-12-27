@@ -28,7 +28,7 @@
 ### @size[15](박준태)
   * 낙타
   * 차분함, 말이 느림
-  * ![SAMBA Deployment](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg&size=auto 90%)
+  * ![SAMBA Deployment](https://raw.githubusercontent.com/crossmarien/public/master/assets/img/3.jpg&size=auto)
   * 친구들이랑 방 잡고 놀기
 
 ---
